@@ -1,0 +1,4 @@
+This is the file, saved at server location
+Read the content of this file line by line
+Client will send the request with the name of the file
+Server will allow the receiver to read the file content
